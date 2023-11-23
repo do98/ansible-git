@@ -16,4 +16,3 @@ RUN echo 'mkdir -p /var/run/httpd' >> /root/run_apache.sh && \
 EXPOSE 80
 
 CMD /root/run_apache.sh
-public.ecr.aws
